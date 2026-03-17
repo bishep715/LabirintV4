@@ -48,6 +48,7 @@ static void showLoadedScenarioInfo(int N, int M, Pos start, const Pos exits[MAX_
 // проверка git
 
 // Тестирую репозиторий
+// Четвертое изменение
 
 int main() {
     SetConsoleCP(65001);
