@@ -10,7 +10,7 @@
 #include "dijkstra.h"
 #include "astar.h"
 #include "stats.h"
-
+// Сюда вносим изменения
 static AnimationSettings askAnimationSettings() {
     AnimationSettings a;
     int mode = 2;
