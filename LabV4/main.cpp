@@ -44,6 +44,8 @@ static void showLoadedScenarioInfo(int N, int M, Pos start, const Pos exits[MAX_
     }
     std::cout << '\n';
 }
+// Основная часть
+// проверка git
 
 int main() {
     SetConsoleCP(65001);
